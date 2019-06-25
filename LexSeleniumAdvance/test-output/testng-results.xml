@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2019-04-07T15:49:11Z" finished-at="2019-04-07T15:49:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2019-04-07T15:49:11Z" finished-at="2019-04-07T15:49:11Z">
+      <class name="Demos.Annotations">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Demos.Annotations@100fc185]" name="f" duration-ms="8" started-at="2019-04-07T21:19:11Z" data-provider="credentials" finished-at="2019-04-07T21:19:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[don1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[don1@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Demos.Annotations@100fc185]" name="f" duration-ms="2" started-at="2019-04-07T21:19:11Z" data-provider="credentials" finished-at="2019-04-07T21:19:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[don2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[don2@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Demos.Annotations@100fc185]" name="f" duration-ms="2" started-at="2019-04-07T21:19:11Z" data-provider="credentials" finished-at="2019-04-07T21:19:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[don3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[don3@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Demos.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
